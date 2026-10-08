@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1219 1489" class="s-flow" aria-hidden="true">
+          <mask id="flowMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1219" height="1489">
+          <rect x="0" y="0" width="1219" height="1489" fill="#fff" />
+          <rect x="552" y="356" width="90" height="48" fill="#000" />
+          <rect x="770" y="388" width="90" height="48" fill="#000" />
+          <rect x="966" y="233" width="78" height="48" fill="#000" />
+          <rect x="1070" y="911" width="78" height="48" fill="#000" />
+          <rect x="565" y="186" width="78" height="48" fill="#000" />
+          <rect x="-11" y="1095" width="117" height="48" fill="#000" />
+          <rect x="235" y="853" width="99" height="48" fill="#000" />
+          <rect x="386" y="843" width="99" height="48" fill="#000" />
+          </mask>
+          <path id="flowA" d="M 1000.3 111.2 Q 1000.8 135.2 1000.8 152.7 Q 1000.8 170.2 863.85 186.95 M 690.8 237.2 Q 601.8 264.2 599.62 279.2 Q 597.43 294.2 597.43 314.2 Q 597.43 334.2 597.43 346.7 Q 597.43 359.2 597.43 385.2 Q 597.43 411.2 597.43 462.7 Q 597.43 514.2 597.43 579.08 M 597.3 641.2 Q 597.3 641.2 597.76 757.08" fill="none" stroke="none" />
+          <path d="M 1000.3 111.2 Q 1000.8 135.2 1000.8 152.7 Q 1000.8 170.2 863.85 186.95" fill="none" stroke="#ffb020" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <path d="M 690.8 237.2 Q 601.8 264.2 599.62 279.2 Q 597.43 294.2 597.43 314.2 Q 597.43 334.2 597.43 346.7 Q 597.43 359.2 597.43 385.2 Q 597.43 411.2 597.43 462.7 Q 597.43 514.2 597.43 579.08" fill="none" stroke="#ffb020" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <path d="M 597.3 641.2 Q 597.3 641.2 597.76 757.08" fill="none" stroke="#ffb020" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <circle r="4.0" fill="#ffb020" opacity="0">
+          <animateMotion dur="3.52s" begin="0.00s" repeatCount="indefinite" rotate="0"><mpath href="#flowA" /></animateMotion>
+          <animate attributeName="opacity" begin="0.00s" dur="3.52s" repeatCount="indefinite" calcMode="linear" values="1;1;0;0;1;1;0" keyTimes="0;0.8348;0.8353;0.8358;0.8363;0.9431;1" />
+          </circle>
+          <circle r="4.0" fill="#ffb020" opacity="0">
+          <animateMotion dur="3.52s" begin="1.17s" repeatCount="indefinite" rotate="0"><mpath href="#flowA" /></animateMotion>
+          <animate attributeName="opacity" begin="1.17s" dur="3.52s" repeatCount="indefinite" calcMode="linear" values="1;1;0;0;1;1;0" keyTimes="0;0.8348;0.8353;0.8358;0.8363;0.9431;1" />
+          </circle>
+          <circle r="4.0" fill="#ffb020" opacity="0">
+          <animateMotion dur="3.52s" begin="2.35s" repeatCount="indefinite" rotate="0"><mpath href="#flowA" /></animateMotion>
+          <animate attributeName="opacity" begin="2.35s" dur="3.52s" repeatCount="indefinite" calcMode="linear" values="1;1;0;0;1;1;0" keyTimes="0;0.8348;0.8353;0.8358;0.8363;0.9431;1" />
+          </circle>
+          <path d="M 597.8 820.2 Q 597.8 820.2 596.9 905.08" fill="none" stroke="#ffb020" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 596.8 968.2 Q 598.8 1023.2 614.84 1034.82" fill="none" stroke="#ffb020" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path id="flowB" d="M 1000.3 111.2 Q 1000.8 135.2 1000.8 152.7 Q 1000.8 170.2 863.85 186.95 M 813.8 237.2 Q 813.8 237.2 815.75 578.08 M 815.8 641.2 Q 815.8 641.2 815.8 757.08" fill="none" stroke="none" />
+          <path d="M 1000.3 111.2 Q 1000.8 135.2 1000.8 152.7 Q 1000.8 170.2 863.85 186.95" fill="none" stroke="#4cc9f0" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <path d="M 813.8 237.2 Q 813.8 237.2 815.75 578.08" fill="none" stroke="#4cc9f0" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <path d="M 815.8 641.2 Q 815.8 641.2 815.8 757.08" fill="none" stroke="#4cc9f0" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <circle r="4.0" fill="#4cc9f0" opacity="0">
+          <animateMotion dur="3.21s" begin="0.00s" repeatCount="indefinite" rotate="0"><mpath href="#flowB" /></animateMotion>
+          <animate attributeName="opacity" begin="0.00s" dur="3.21s" repeatCount="indefinite" calcMode="linear" values="1;1;0;0;1;1;0" keyTimes="0;0.8191;0.8196;0.8201;0.8206;0.9377;1" />
+          </circle>
+          <circle r="4.0" fill="#4cc9f0" opacity="0">
+          <animateMotion dur="3.21s" begin="1.61s" repeatCount="indefinite" rotate="0"><mpath href="#flowB" /></animateMotion>
+          <animate attributeName="opacity" begin="1.61s" dur="3.21s" repeatCount="indefinite" calcMode="linear" values="1;1;0;0;1;1;0" keyTimes="0;0.8191;0.8196;0.8201;0.8206;0.9377;1" />
+          </circle>
+          <path d="M 815.8 820.2 Q 815.8 820.2 815.8 905.08" fill="none" stroke="#4cc9f0" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 815.8 968.2 Q 768.8 1013.2 687.86 1034.84" fill="none" stroke="#4cc9f0" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 655.29 1091.2 Q 654.8 1116.2 654.8 1128.7 Q 654.8 1141.2 654.8 1153.7 Q 654.8 1166.2 441.75 1207.29" fill="none" stroke="#bed89c" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 385.8 1245.2 Q 385.8 1245.2 385.8 1286.08" fill="none" stroke="#bed89c" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 385.8 1349.2 Q 385.8 1349.2 385.8 1390.08" fill="none" stroke="#bed89c" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path d="M 440.8 108.7 Q 440.8 108.7 440.36 174.58" fill="none" stroke="#ff6157" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:1.613s" opacity=".8" />
+          <path id="flowU" d="M 516.8 210.7 Q 516.8 210.7 681.68 210.23 M 863.9 186.9 L 1000.8 170.2 L 1000.8 152.7 L 1000.8 135.2 L 1000.3 111.2" fill="none" stroke="none" />
+          <path d="M 516.8 210.7 Q 516.8 210.7 681.68 210.23" fill="none" stroke="#ff6157" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <path d="M 863.9 186.9 L 1000.8 170.2 L 1000.8 152.7 L 1000.8 135.2 L 1000.3 111.2" fill="none" stroke="#ff6157" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="12 13" class="a-flow" style="animation-duration:0.500s" opacity=".8" />
+          <circle r="4.0" fill="#ff6157" opacity="0">
+          <animateMotion dur="1.81s" begin="0.00s" repeatCount="indefinite" rotate="0"><mpath href="#flowU" /></animateMotion>
+          <animate attributeName="opacity" begin="0.00s" dur="1.81s" repeatCount="indefinite" calcMode="linear" values="1;1;0" keyTimes="0;0.94;1" />
+          </circle>
+          <circle r="4.0" fill="#ff6157" opacity="0">
+          <animateMotion dur="1.81s" begin="0.90s" repeatCount="indefinite" rotate="0"><mpath href="#flowU" /></animateMotion>
+          <animate attributeName="opacity" begin="0.90s" dur="1.81s" repeatCount="indefinite" calcMode="linear" values="1;1;0" keyTimes="0;0.94;1" />
+          </circle>
+        </svg>
